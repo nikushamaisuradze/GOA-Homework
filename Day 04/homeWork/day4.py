@@ -1,5 +1,6 @@
-name = "nikusha"
-surname = "maisuradze"
-age = 14
+first_name = input("sheiyvanet tqveni saxeli:")
 
-print(name + " " + surname + " 10 welshi iqneba " + str(age + 10))
+last_name = input("sheiyvanet tqveni gvari:")
+
+print(first_name)
+print(last_name)
